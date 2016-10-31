@@ -1,7 +1,5 @@
 # Intent2
 
-[APK] (https://drive.google.com/open?id=0B4nF0jtNvWLSRkEyTWk4dlBCOWs)
-
 ![Screenshots1](https://github.com/Pratiwiratri/Intent2/blob/master/Screenshot_2016-10-31-18-33-52%5B1%5D.jpg)
 ![Screenshots1](https://github.com/Pratiwiratri/Intent2/blob/master/Screenshot_2016-10-31-18-33-59%5B1%5D.jpg)
 
